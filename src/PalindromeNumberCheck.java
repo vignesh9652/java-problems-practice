@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class PalindromeNumberCheck {
     public static void main(String[] args) {
-       int num = 121;
+       int num = 343;
        int original = num;
         int reverse = 0;
         while (num > 0){
